@@ -43,7 +43,17 @@ You can reproduce the colored log demo by running  `mvn clean install`  and then
 Uncomment the desired logging of the main method and corresponding [tinylog.properties](https://github.com/tobiasrm/tinylog-tagging-rollingfilewriter/blob/master/src/main/resources/tinylog.properties) config for the listed example. 
  
 ## Maven artifact
-*In preparation*
+Add the following dependency to your pom.xml to use the tinylog-tagging-rollingfilewriter in your Maven project:
+
+```
+<dependency>
+	<groupId>com.github.tobiasrm</groupId>
+	<artifactId>tinylog-tagging-rollingfilewriter</artifactId>
+	<version>1.3.1</version>
+</dependency>
+```
+
+Note: To make sure your IDE takes all files into account (notably the TaggingRollingFileWriter class), clean and rebuild your project.
 
 
 ## Comments
