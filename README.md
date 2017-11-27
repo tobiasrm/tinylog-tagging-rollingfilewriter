@@ -29,11 +29,11 @@ EXAMPLE:
 
 The following screenshots show the listing example with some lorem ipsum text (and those three tags). 
 
-Console output (sysout in eclipse):
+**Console output (sysout in eclipse)**:
 
 ![](https://github.com/tobiasrm/tinylog-tagging-rollingfilewriter/blob/master/files/screenshot_sysout.png?raw=true) 
 
-Log file entry:
+**Log file entry**:
 
 ![](https://github.com/tobiasrm/tinylog-tagging-rollingfilewriter/blob/master/files/screenshot_logfile.png?raw=true) 
 
