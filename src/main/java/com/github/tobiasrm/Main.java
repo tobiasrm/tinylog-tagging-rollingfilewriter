@@ -35,6 +35,7 @@ public class Main {
 //				customTag9 + " " + 
 //				customTag10 );
 		
+		System.out.println("Compare this log output with the generated 'log.txt'");
 	}
 
 }
